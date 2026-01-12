@@ -1,5 +1,15 @@
 # 🟣 VolAtlas
 
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" />
+  <img src="https://img.shields.io/badge/python-3.9%2B-blue.svg" />
+  <img src="https://img.shields.io/badge/status-active%20development-success.svg" />
+  <img src="https://img.shields.io/badge/focus-quant%20infrastructure-purple.svg" />
+  <img src="https://img.shields.io/badge/open--source-yes-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/contributions-welcome-orange.svg" />
+</p>
+
+
 **VolAtlas** is an open-source quantitative infrastructure organization focused on  
 **volatility as a dynamic, cross-asset risk system**.
 
