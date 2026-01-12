@@ -20,3 +20,18 @@ VolAtlas exists to bridge the gap between **academic volatility models** and
 **real-world quantitative trading and risk systems**.
 
 ---
+
+## 🧠 Core Philosophy
+
+VolAtlas projects are guided by a small set of principles:
+
+- **Volatility is a state, not a surface**
+- **Models drift before they fail**
+- **Risk matters more than fit**
+- **Interpretability beats complexity**
+- **Infrastructure beats signals**
+
+We do **not** build trading strategies.  
+We build the **systems that professional trading desks depend on**.
+
+---
