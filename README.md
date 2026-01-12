@@ -52,3 +52,19 @@ These tools are designed to be:
 - suitable for multi-asset environments
 
 ---
+
+## 📦 Active Repositories
+
+### 📈 `volatlas-core` (Flagship)
+Core infrastructure for modeling volatility as a **dynamic system**.
+
+Includes:
+- volatility state abstractions  
+- rolling calibration & drift detection  
+- model ensembles  
+- cross-asset diagnostics  
+- risk-focused outputs  
+
+➡️ https://github.com/VolAtlas/volatlas-core
+
+---
