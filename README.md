@@ -35,3 +35,20 @@ We do **not** build trading strategies.
 We build the **systems that professional trading desks depend on**.
 
 ---
+## 🏗️ What We Build
+
+VolAtlas focuses on volatility infrastructure such as:
+
+- implied volatility state representations  
+- model ensembles (parametric + non-parametric)  
+- rolling calibration and regime diagnostics  
+- volatility risk decomposition (level, skew, curvature)  
+- cross-asset volatility spillover analysis  
+
+These tools are designed to be:
+- modular
+- explainable
+- numerically robust
+- suitable for multi-asset environments
+
+---
