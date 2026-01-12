@@ -68,3 +68,56 @@ Includes:
 ➡️ https://github.com/VolAtlas/volatlas-core
 
 ---
+### 📚 `volatlas-docs`
+Design notes, research explanations, and internal-style memos that justify
+modeling and architectural decisions.
+
+---
+
+### 🧪 `volatlas-labs`
+Experimental ideas, prototypes, and exploratory research that may later
+graduate into `volatlas-core`.
+
+---
+
+## 🌱 Contribution Model
+
+VolAtlas is designed to be:
+
+- open-source first  
+- review-driven  
+- research-oriented  
+
+We value:
+- small, focused pull requests  
+- clear problem statements  
+- numerical correctness  
+- thoughtful documentation  
+
+Early contributors help shape both **architecture and research direction**.
+
+---
+
+## 🎓 For Students & Researchers
+
+VolAtlas projects are intentionally structured to be:
+
+- **GSoC-friendly**
+- suitable for advanced students
+- aligned with real-world quantitative research problems
+
+We encourage early discussion, thoughtful questions, and incremental contributions.
+
+---
+
+## ⭐ Why VolAtlas?
+
+Modern quantitative firms operate on **volatility intelligence**, not just prices.
+
+VolAtlas exists to make that intelligence:
+- explicit  
+- testable  
+- interpretable  
+- and open  
+
+If volatility drives risk, then volatility deserves first-class infrastructure.
