@@ -10,3 +10,8 @@ class Volstate:
     level : float
     curvature : float 
     skew : float 
+
+    term_slope: float
+    vol_of_vol: float
+
+    confidence: float
